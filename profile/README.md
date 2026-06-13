@@ -28,7 +28,7 @@ Jesteśmy majcher.tech. Bierzemy strony, które wyglądają i działają staro, 
 
 ### Stała opieka
 
-Klienci pakietu "Pod opieką Plus" zgłaszają zmiany przez [Pulpit](https://pulpit.majcher.tech). Piszesz prostym językiem, co poprawić, a my robimy resztę. Widzisz status każdej zmiany i wykorzystane godziny.
+Klienci pakietu "Pod opieką Plus" zgłaszają zmiany przez Pulpit. Piszesz prostym językiem, co poprawić, a my robimy resztę. Widzisz status każdej zmiany i wykorzystane godziny.
 
 ---
 
