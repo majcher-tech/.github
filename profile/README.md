@@ -10,7 +10,7 @@
 
 ---
 
-Jesteśmy Mateusz i Ewelina Majcher. Bierzemy strony, które wyglądają i działają staro, i robimy je na nowo: nowocześnie, szybko i dobrze na telefonie. Zaczynamy od darmowego podglądu. W 48 godzin pokazujemy gotową wersję Twojej nowej strony na działającym adresie, a Ty decydujesz, czy ją bierzesz.
+Jesteśmy majcher.tech. Bierzemy strony, które wyglądają i działają staro, i robimy je na nowo: nowocześnie, szybko i dobrze na telefonie. Zaczynamy od darmowego podglądu. W 48 godzin pokazujemy gotową wersję Twojej nowej strony na działającym adresie, a Ty decydujesz, czy ją bierzesz.
 
 ### Jak to działa
 
