@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/majcher-tech/.github/main/profile/banner.png" alt="majcher.tech" width="100%">
+
 # majcher.tech
 
 **Odświeżamy stare strony małych firm. Podgląd na żywo w 48 godzin, zanim zapłacisz.**
