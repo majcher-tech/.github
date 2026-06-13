@@ -4,7 +4,7 @@
 
 **Odświeżamy stare strony małych firm. Podgląd na żywo w 48 godzin, zanim zapłacisz.**
 
-[majcher.tech](https://majcher.tech) · [Pulpit klienta](https://pulpit.majcher.tech)
+[majcher.tech](https://majcher.tech) 
 
 </div>
 
